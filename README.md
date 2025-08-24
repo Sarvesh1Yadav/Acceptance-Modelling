@@ -20,9 +20,6 @@ The final ranked list helps universities/admission teams in:
 
 ---
 
-
----
-
 ## 🚀 How to Run the Project
 
 ### Prerequisites
@@ -30,10 +27,13 @@ The final ranked list helps universities/admission teams in:
 - Recommended IDE: [RStudio](https://posit.co/download/rstudio-desktop/)
 
 ### Required Packages
-Install the following R packages:
 ```R
 install.packages(c("dplyr", "readr", "xgboost"))
-## Clone the repo
-git clone https://github.com/Sarvesh1Yadav/Acceptance-Modelling.git
-cd Accpetance-Modelling
 
+```md
+### Installation
+
+Clone the repository and navigate into the project folder:
+```bash
+git clone https://github.com/Sarvesh1Yadav/Acceptance-Modelling.git
+cd Acceptance-Modelling
